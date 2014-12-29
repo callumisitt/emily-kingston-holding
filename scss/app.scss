@@ -1,0 +1,52 @@
+@import "settings";
+@import "foundation";
+
+@import url(http://fonts.googleapis.com/css?family=Lato:300|Open+Sans:600);
+
+body
+{
+	text-align: center;
+	p 
+	{
+		font-family: 'Lato', sans-serif;
+		font-size: 18px;
+		line-height: 30px;
+	}
+	h1,h2,h3,h4,h5,h6
+	{
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 600;
+	}
+}
+
+header 
+{
+	margin-top: 3em;
+}
+
+main 
+{
+	margin-top: 3em;
+}
+
+footer
+{
+	margin-top: 3em;
+	text-align: left;
+	p 
+	{
+		font-size: 0.8em;
+		color: #a3a3a3;
+	}	
+}
+
+// .top-nav
+// {
+// 	list-style-type: none; 
+// 	text-align: center;
+// 	li
+// 	{
+// 		display: inline-block;
+// 		margin: 0 20px;
+// 	}
+// }
