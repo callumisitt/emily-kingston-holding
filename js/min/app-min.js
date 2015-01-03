@@ -1,1 +1,0 @@
-function resizeHover(){$(".hover").each(function(){var e=$(this).find("img").height();e>0&&$(this).height(e/2)})}$(document).foundation(),$(window).bind("resize",resizeHover),resizeHover();

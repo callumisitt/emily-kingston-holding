@@ -6060,13 +6060,3 @@ footer {
   .top-nav li, .social-links li {
     display: inline-block;
     margin: 0 20px; }
-
-.hover {
-  position: relative;
-  overflow-y: hidden; }
-  .hover img {
-    display: block;
-    margin: 0 auto; }
-    .hover img:hover {
-      position: absolute;
-      bottom: 0; }

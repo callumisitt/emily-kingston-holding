@@ -57,19 +57,3 @@ footer
 		margin: 0 20px;
 	}
 }
-
-.hover
-{
-	position: relative;
-	overflow-y: hidden;
-	img
-	{
-		display: block;
-		margin: 0 auto;
-		&:hover
-		{
-			position: absolute;
-			bottom: 0;
-		}
-	}
-}
